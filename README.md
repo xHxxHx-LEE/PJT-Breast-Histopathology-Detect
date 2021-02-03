@@ -26,7 +26,7 @@
 
 > **툴**: Jupyter Notebook
 
-> **모델 예측 성능**: 85% (Test 데이터 예측시)
+> **모델 예측 성능**: 87% (Test 데이터 예측시)
 
 ---
 
@@ -223,7 +223,7 @@ model.evaluate(test_generator)
 
 파란색 글씨를 클릭하면 이미지 업로드 창으로 이동
 
-![메인 페이지](C:\Users\cksgh\AppData\Roaming\Typora\typora-user-images\image-20210203141348144.png)
+![그림1](https://user-images.githubusercontent.com/57612261/106704462-87a27880-662f-11eb-98b8-abc8ca7e42a3.jpg)
 
 ---
 
@@ -233,7 +233,7 @@ model.evaluate(test_generator)
 
 분홍색 사각형을 클릭하면 파일 업로드 가능
 
-![이미지 업로드](C:\Users\cksgh\AppData\Roaming\Typora\typora-user-images\image-20210203141520525.png)
+![그림2](https://user-images.githubusercontent.com/57612261/106704475-8c672c80-662f-11eb-8cb5-42706d2ceacf.jpg)
 
 ---
 
@@ -243,7 +243,7 @@ model.evaluate(test_generator)
 
 이미지를 업로드 하면 서버에 내장된 모델로 예측하여 양성일 확률을 도출해내어 사용자에게 알려주는 페이지
 
-![결과 페이지](C:\Users\cksgh\AppData\Roaming\Typora\typora-user-images\image-20210203141714966.png)
+![그림3](https://user-images.githubusercontent.com/57612261/106704483-8d985980-662f-11eb-979b-8f53a2ee47f1.jpg)
 
 ---
 
