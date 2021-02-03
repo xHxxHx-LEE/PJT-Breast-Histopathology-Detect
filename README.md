@@ -203,7 +203,7 @@ plt.legend(['loss', 'val_loss', 'acc', 'val_acc'], loc='upper left')
 plt.show()
 ```
 
-![모델 히스토리](C:\Users\cksgh\Desktop\다운로드.png)
+![모델 loss](https://user-images.githubusercontent.com/57612261/106704171-fcc17e00-662e-11eb-88c5-1da9388f7353.png)
 
 ---
 
