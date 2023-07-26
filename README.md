@@ -64,7 +64,7 @@ config.gpu_options.allow_growth = True
 
 2) **이미지 불러오기 및 전처리**
 
-이미지 갯수가 달라 이미지 갯수를 맞추었고 train(80%) test(20%) validation(20%) 3개로 분류
+이미지 갯수가 달라 이미지 갯수를 맞추었고 train(60%) test(20%) validation(20%) 3개로 분류
 
 ```python
 folders = [folder + x for x in sorted(os.listdir(folder))]
